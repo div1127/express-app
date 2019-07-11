@@ -32,5 +32,5 @@ Normally this coverage report is ignored by git.
 This project includes it in source control so the coverage report can be viewed in the demo app:
 [http://express-app-testing-demo.herokuapp.com/coverage/lcov-report/index.html](http://express-app-testing-demo.herokuapp.com/coverage/lcov-report/index.html)
 
-http://3.216.163.107:8080/buildStatus/icon?job=test2
+<a href='http://3.216.163.107:8080/job/test2/'><img src='http://3.216.163.107:8080/buildStatus/icon?job=test2'></a>
 
