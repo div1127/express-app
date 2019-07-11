@@ -33,5 +33,6 @@ This project includes it in source control so the coverage report can be viewed 
 [http://express-app-testing-demo.herokuapp.com/coverage/lcov-report/index.html](http://express-app-testing-demo.herokuapp.com/coverage/lcov-report/index.html)
 
 http://3.216.163.107:8080/job/test2/badge/icon
+
 http://3.216.163.107:8080/job/test2/badge/icon?subject=Custom%20Subject&status=Any%20State&color=darkturquoise
-flat-
+
